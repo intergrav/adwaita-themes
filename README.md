@@ -1,2 +1,4 @@
-# adwaita-themes
-A useful list of Adwaita themes for applications and stuff to make your applications fit better with GNOME's default theme
+> [!CAUTION]
+> Be aware that stylesheets and themes may disrupt application functionality and alter the intended user experience. If you encounter styling issues, report them to the theme developer, not the app developer.
+
+Discover a curated collection of Adwaita-styled themes to enhance the consistency of your GNOME desktop. Have any ideas? Make an [issue](https://github.com/intergrav/adwaita-themes/issues) or [pull request](https://github.com/intergrav/adwaita-themes/pulls).
