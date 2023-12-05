@@ -24,3 +24,5 @@ Discover a curated collection of Adwaita-styled themes to enhance the consistenc
     - [birneee/obsidian-adwaita-theme](https://github.com/birneee/obsidian-adwaita-theme)
 - Steam
     - [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam)
+- Firefox
+    - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
