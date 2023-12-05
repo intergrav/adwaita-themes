@@ -1,4 +1,4 @@
-![adwaita-themes](/.github/static/header.png) [![issues](/.github/static/issues.png)](https://github.com/intergrav/adwaita-themes/issues) [![pull requests](/.github/static/prs.png)](https://github.com/intergrav/adwaita-themes/pulls)
+![adwaita-themes](/.github/static/header.svg) [![issues](/.github/static/issues.svg)](https://github.com/intergrav/adwaita-themes/issues) [![pull requests](/.github/static/prs.svg)](https://github.com/intergrav/adwaita-themes/pulls)
 
 Discover a curated collection of Adwaita-styled themes and projects to enhance the consistency of your GNOME desktop. Have any ideas or want to fix something? Make an issue or pull request for this repository.
 
