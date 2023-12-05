@@ -22,3 +22,5 @@ Discover a curated collection of Adwaita-styled themes to enhance the consistenc
     - [olifink/vscode-fedora-gnome-theme](https://github.com/olifink/vscode-fedora-gnome-theme)
 - Obsidian
     - [birneee/obsidian-adwaita-theme](https://github.com/birneee/obsidian-adwaita-theme)
+- Steam
+    - [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam)
