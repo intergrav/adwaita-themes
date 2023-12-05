@@ -18,8 +18,6 @@ Discover a curated collection of Adwaita-styled themes and projects to enhance t
 - [Visual Studio Code](https://code.visualstudio.com/)
     - [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita)
     - [wroyca/libadwaita-vscode-theme](https://github.com/wroyca/libadwaita-vscode-theme)
-    - [rafaelmardojai/vscode-gnome-theme](https://github.com/rafaelmardojai/vscode-gnome-theme)
-    - [olifink/vscode-fedora-gnome-theme](https://github.com/olifink/vscode-fedora-gnome-theme)
 - [Obsidian](https://obsidian.md/)
     - [birneee/obsidian-adwaita-theme](https://github.com/birneee/obsidian-adwaita-theme)
 - [Steam](steampowered.com)
