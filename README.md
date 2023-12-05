@@ -20,3 +20,5 @@ Discover a curated collection of Adwaita-styled themes to enhance the consistenc
     - [wroyca/libadwaita-vscode-theme](https://github.com/wroyca/libadwaita-vscode-theme)
     - [rafaelmardojai/vscode-gnome-theme](https://github.com/rafaelmardojai/vscode-gnome-theme)
     - [olifink/vscode-fedora-gnome-theme](https://github.com/olifink/vscode-fedora-gnome-theme)
+- Obsidian
+    - [birneee/obsidian-adwaita-theme](https://github.com/birneee/obsidian-adwaita-theme)
