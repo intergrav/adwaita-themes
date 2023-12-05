@@ -5,7 +5,7 @@ Discover a curated collection of Adwaita-styled themes and projects to enhance t
 > [!CAUTION]
 > Be aware that stylesheets and themes may disrupt application functionality and alter the intended user experience. If you encounter styling issues, report them to the theme developer, not the app developer.
 
-## List
+## Software
 
 - [QT](https://www.qt.io/)
     - [FedoraQt/adwaita-qt](https://github.com/FedoraQt/adwaita-qt)
