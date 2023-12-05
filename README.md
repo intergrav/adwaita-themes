@@ -4,3 +4,5 @@ Discover a curated collection of Adwaita-styled themes to enhance the consistenc
 
 > [!CAUTION]
 > Be aware that stylesheets and themes may disrupt application functionality and alter the intended user experience. If you encounter styling issues, report them to the theme developer, not the app developer.
+
+## List
