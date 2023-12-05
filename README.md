@@ -15,3 +15,8 @@ Discover a curated collection of Adwaita-styled themes to enhance the consistenc
     - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3)
 - Discord
     - [GeopJr/DNOME](https://github.com/GeopJr/DNOME)
+- Visual Studio Code
+    - [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita)
+    - [wroyca/libadwaita-vscode-theme](https://github.com/wroyca/libadwaita-vscode-theme)
+    - [rafaelmardojai/vscode-gnome-theme](https://github.com/rafaelmardojai/vscode-gnome-theme)
+    - [olifink/vscode-fedora-gnome-theme](https://github.com/olifink/vscode-fedora-gnome-theme)
