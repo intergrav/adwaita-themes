@@ -6,3 +6,8 @@ Discover a curated collection of Adwaita-styled themes to enhance the consistenc
 > Be aware that stylesheets and themes may disrupt application functionality and alter the intended user experience. If you encounter styling issues, report them to the theme developer, not the app developer.
 
 ## List
+
+- QT
+    - [FedoraQt/adwaita-qt](https://github.com/FedoraQt/adwaita-qt)
+    - [GabePoel/KvLibadwaita](https://github.com/GabePoel/KvLibadwaita) - Kvantum theme
+    - [FedoraQt/QGnomePlatform](https://github.com/FedoraQt/QGnomePlatform) - Already used in GTK-based desktops
