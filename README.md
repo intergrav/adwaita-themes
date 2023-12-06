@@ -1,6 +1,3 @@
-> [!IMPORTANT]
-> Be aware that stylesheets and themes may disrupt application functionality and alter the intended user experience. If you encounter styling issues, report them to the theme developer, not the app developer.
-
 <div align="center">
 	
 [![adwaita-themes](/.github/static/header.svg)](https://github.com/intergrav/adwaita-themes) [![issues](/.github/static/issues.svg)](https://github.com/intergrav/adwaita-themes/issues) [![pull requests](/.github/static/prs.svg)](https://github.com/intergrav/adwaita-themes/pulls)
@@ -10,6 +7,9 @@ Discover a curated collection of Adwaita-styled themes and projects to enhance t
 </div>
 
 ## Contents
+
+> [!IMPORTANT]
+> Be aware that stylesheets and themes may disrupt application functionality and alter the intended user experience. If you encounter styling issues, report them to the theme developer, not the app developer.
 
 - [Contents](#contents)
 - [Toolkits](#toolkits)
