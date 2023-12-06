@@ -18,7 +18,7 @@ Discover a curated collection of Adwaita-styled themes and projects to enhance t
   - [GabePoel/KvLibadwaita](https://github.com/GabePoel/KvLibadwaita) - Kvantum theme
   - [FedoraQt/QGnomePlatform](https://github.com/FedoraQt/QGnomePlatform) - Already used in GTK-based desktops
 - [GTK3](https://docs.gtk.org/gtk3/)
-  - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3)
+  - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - Recommended! Without this, GTK3 applications look out of place with modern GNOME applications
 
 ## Applications
 
