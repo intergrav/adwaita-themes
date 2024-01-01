@@ -36,7 +36,7 @@ Discover a curated collection of Adwaita-styled themes and projects to enhance t
 - [Obsidian](https://obsidian.md/)
   - [birneee/obsidian-adwaita-theme](https://github.com/birneee/obsidian-adwaita-theme)
 - [Spotify](https://open.spotify.com)
-  - [intergrav/stylesheets/spotify-adwaita](https://github.com/intergrav/stylesheets/tree/main/spotify-adwaita) - Designed for web player only, may or may not work with Spicetify
+  - [intergrav/stylesheets/spotify-adwaita](https://github.com/intergrav/stylesheets/tree/main/spotify-adwaita) - Made for web player, may or may not work with Spicetify
 - [Steam](steampowered.com)
   - [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
