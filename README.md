@@ -20,6 +20,7 @@ Discover a curated collection of Adwaita-styled themes and projects to enhance t
 ## Toolkits
 
 - [QT](https://www.qt.io/)
+  - [FedoraQt/QAdwaitaDecorations](https://github.com/FedoraQt/QAdwaitaDecorations) - Recommended! Without this, many Qt 6 applications will use a fallback CSD.
   - [FedoraQt/adwaita-qt](https://github.com/FedoraQt/adwaita-qt)
   - [GabePoel/KvLibadwaita](https://github.com/GabePoel/KvLibadwaita) - Kvantum theme
   - [FedoraQt/QGnomePlatform](https://github.com/FedoraQt/QGnomePlatform) - Already used in GTK-based desktops
