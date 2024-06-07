@@ -42,5 +42,7 @@ Discover a curated collection of Adwaita-styled themes and projects to enhance t
   - [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
   - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
+- [Thunderbird](https://github.com/rafaelmardojai/thunderbird-gnome-theme)
+  - [rafaelmardojai/thunderbird-gnome-theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme)
 - [NeoVim](https://github.com/neovim/neovim)
   - [Mofiqul/adwaita.nvim](https://github.com/Mofiqul/adwaita.nvim)
