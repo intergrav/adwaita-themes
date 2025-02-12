@@ -31,6 +31,7 @@ Discover a curated collection of Adwaita-styled themes and projects to enhance t
 
 - [Discord](https://discord.com/)
   - [GeopJr/DNOME](https://github.com/GeopJr/DNOME)
+  - [ricewind012/discord-gnome-theme](https://github.com/ricewind012/discord-gnome-theme)
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita)
   - [wroyca/libadwaita-vscode-theme](https://github.com/wroyca/libadwaita-vscode-theme)
