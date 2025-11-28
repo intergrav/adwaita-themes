@@ -47,3 +47,6 @@ Discover a curated collection of Adwaita-styled themes and projects to enhance t
   - [rafaelmardojai/thunderbird-gnome-theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme)
 - [NeoVim](https://github.com/neovim/neovim)
   - [Mofiqul/adwaita.nvim](https://github.com/Mofiqul/adwaita.nvim)
+- [GIMP](https://www.gimp.org)
+  - [dp0sk/adw-gimp3](https://github.com/dp0sk/adw-gimp3) - `adw-gtk3` patches for GIMP.
+  - [RichardSepsi/adw-gimp3](https://github.com/RichardSepsi/adw-gimp3) - Fork/alternate version of the above.
